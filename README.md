@@ -10,28 +10,28 @@
 </p>
 
 <p align="center">
-<a href="https://www.42.fr/">
-    <img src="https://img.shields.io/badge/42%20School-Project-00B8BB?logo=42&logoColor=white&labelColor=000000"
+<a href="https://www.42.fr">
+    <img src="https://img.shields.io/badge/42-School%20Project-00BABC?logo=42&logoColor=white&labelColor=000000"
          alt="42 School Project">
   </a>
-<a href="#">
-    <img src="https://img.shields.io/badge/Focus-System%20Programming-555555?logo=c&logoColor=white&labelColor=000000"
-         alt="Focus System Programming">
+<a href="https://github.com/jdecorte-be/libft">
+    <img src="https://img.shields.io/badge/Type-C%20Library-blue?logo=c&logoColor=white&labelColor=000000"
+         alt="Type C Library">
   </a>
-<a href="#">
-    <img src="https://img.shields.io/badge/Type-Static%20Library-007EC6?logo=c&logoColor=white&labelColor=000000"
-         alt="Type Static Library">
+<a href="https://github.com/jdecorte-be/libft">
+    <img src="https://img.shields.io/badge/Focus-libc%20Re--implementation-555?logo=c&logoColor=white&labelColor=000000"
+         alt="Focus libc Re-implementation">
   </a>
-<a href="#">
-    <img src="https://img.shields.io/badge/Platform-macOS%20%7C%20Linux-lightgrey?logo=apple&logoColor=white&labelColor=000000"
-         alt="Platform macOS | Linux">
+<a href="https://en.wikipedia.org/wiki/C99">
+    <img src="https://img.shields.io/badge/Standard-C99-A8B9CC?logo=c&logoColor=white&labelColor=000000"
+         alt="Standard C99">
   </a>
 </p>
 
 <p align="center">
-<a href="#">
-    <img src="https://img.shields.io/badge/Standard-libc-A42E2B?logo=c&logoColor=white&labelColor=000000"
-         alt="Standard libc">
+<a href="https://github.com/jdecorte-be/libft/actions">
+    <img src="https://img.shields.io/badge/CI-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&labelColor=000000"
+         alt="CI GitHub Actions">
   </a>
   <a href="https://github.com/jdecorte-be/libft/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/License-GPL--3.0-AE81FF?labelColor=000000"
