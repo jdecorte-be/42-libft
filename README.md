@@ -66,8 +66,6 @@
 </header>
 
 
-![.assets/banner.png](.assets/banner.png)
-
 Libft is a custom C library developed as a core project for the 42 school curriculum. It contains re-implementations of many standard C library functions, as well as a suite of additional utilities for string manipulation, memory management, and linked list operations.
 
 This project is designed to provide a foundational set of tools for future C projects where standard libraries may be restricted.
