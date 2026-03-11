@@ -79,7 +79,7 @@ char	**ft_split(char const *s, char c)
 		ptr[i] = ft_str(s, c);
 		if (!(ptr[i]))
 		{
-			free(ptr);
+			ft_free_tab(ptr);
 			return (NULL);
 		}
 		s += ft_strlen(ptr[i]);

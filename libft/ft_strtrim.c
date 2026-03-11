@@ -29,13 +29,11 @@ static int	is_white_space(char c, char const *set)
 char	*ft_strtrim(char const *s1, char const *set)
 {
 	int		i;
-	int		y;
 	int		x;
 	int		max;
 	char	*res;
 
 	i = 0;
-	y = 0;
 	x = 0;
 	res = ft_calloc(ft_strlen(s1) + 1, sizeof(char));
 	if (!res)
